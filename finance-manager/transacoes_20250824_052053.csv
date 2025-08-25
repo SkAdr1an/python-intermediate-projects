@@ -1,0 +1,7 @@
+id,descricao,valor,categoria,tipo,data
+9,Fatura Projeto A,10500.0,Receita,entrada,2025-08-24 04:39:55
+10,Fatura Projeto B,8900.0,Receita,entrada,2025-08-24 04:40:17
+11,Aluguel Escritório,3500.0,Infraestrutura,saida,2025-08-24 04:40:47
+12,Folha de pagamento,12000.0,RG,saida,2025-08-24 04:41:12
+13,Cloud,1200.0,Tecnologia,saida,2025-08-24 04:41:35
+14,Marketing,1500.0,Marketing,entrada,2025-08-24 04:42:02
